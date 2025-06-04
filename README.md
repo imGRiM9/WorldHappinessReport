@@ -47,7 +47,7 @@ A grouped bar chart comparing key metrics such as Log GDP per capita, Social Sup
 
 1.  **Clone the repository:**
     ```bash
-    git clone https://github.com/imGRiM9/WorldHappinessReport.git![Screenshot 2025-06-04 224711](https://github.com/user-attachments/assets/69a76c36-c7bf-4865-9a42-4efb55bdbcd6)
+    git clone https://github.com/imGRiM9/WorldHappinessReport.git
 
     cd [repository-name]
     ```
