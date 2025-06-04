@@ -31,21 +31,24 @@ This project includes several key analyses, visualized through various plots:
 
 ### 1. Top Happiest Countries
 A bar chart showcasing the countries with the highest happiness scores, providing a quick view of global leaders in well-being.
-
+![Screenshot 2025-06-04 224644](https://github.com/user-attachments/assets/07625c89-58a3-4182-bd78-dbfa7dd21428)
 
 ### 2. GDP per Capita vs. Happiness Score
 A scatter plot illustrating the relationship between a country's economic output (GDP per Capita) and its national happiness score. Points are categorized by happiness levels (High, Medium, Low) to better understand the correlation.
+![Screenshot 2025-06-04 224711](https://github.com/user-attachments/assets/cf34a624-4639-4408-a45f-06728a4c0617)
 
 
 ### 3. Regional Metric Comparisons
 A grouped bar chart comparing key metrics such as Log GDP per capita, Social Support, and Healthy Life Expectancy between different regions (e.g., South Asia and the Middle East). This helps in understanding regional disparities and strengths.
+![Screenshot 2025-06-04 224824](https://github.com/user-attachments/assets/e4e06006-fe7b-4d15-9c39-066f7ec4c47c)
 
 
 ## 🚀 How to Run
 
 1.  **Clone the repository:**
     ```bash
-    git clone https://github.com/imGRiM9/WorldHappinessReport.git
+    git clone https://github.com/imGRiM9/WorldHappinessReport.git![Screenshot 2025-06-04 224711](https://github.com/user-attachments/assets/69a76c36-c7bf-4865-9a42-4efb55bdbcd6)
+
     cd [repository-name]
     ```
 
